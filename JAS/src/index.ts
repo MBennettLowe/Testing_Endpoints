@@ -1,5 +1,3 @@
-const myFunc = (num: number): number => {
-    return num * num;
-};
+const myFunc = (num: number) => num * 5;
 
 export default myFunc;
